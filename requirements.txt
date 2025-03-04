@@ -1,4 +1,4 @@
-
+adafruit-circuitpython-dht==4.0.7
 viam-sdk==0.41.1
 
 typing-extensions

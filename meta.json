@@ -2,7 +2,7 @@
   "$schema": "https://dl.viam.dev/module.schema.json",
   "module_id": "brad-grigsby:dht11",
   "visibility": "public",
-  "url": "",
+  "url": "https://github.com/bgrigsby8/dht11_viam_sensor",
   "description": "Modular sensor component: humidity",
   "models": [
     {
