@@ -1,0 +1,17 @@
+{
+  "$schema": "https://dl.viam.dev/module.schema.json",
+  "module_id": "brad-grigsby:dht11",
+  "visibility": "public",
+  "url": "",
+  "description": "Modular sensor component: humidity",
+  "models": [
+    {
+      "api": "rdk:component:sensor",
+      "model": "brad-grigsby:dht11:humidity",
+      "short_description": "DHT11 Humidity Sensor. This sensor measures the relative humidity in the air.", 
+      "markdown_link": "README.md#model-brad-grigsbydht11humidity"
+    }
+  ],
+  "entrypoint": "./run.sh",
+  "first_run": ""
+}
